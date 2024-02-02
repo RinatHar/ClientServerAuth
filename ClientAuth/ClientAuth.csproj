@@ -20,19 +20,19 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="RegisterWindow.xaml.cs">
+    <Compile Update="MyWindows\RegisterWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="LoginWindow.xaml.cs">
+    <Compile Update="MyWindows\LoginWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="FormWindow.xaml.cs">
+    <Compile Update="MyWindows\FormWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
 
   <ItemGroup>
-    <Page Update="MainWindow.xaml">
+    <Page Update="MyWindows\MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
